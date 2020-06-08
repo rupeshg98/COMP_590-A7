@@ -1,0 +1,1 @@
+In this assignment for my game development class, I first created a virtual environment in Unity game engine. I implemented steer-to-center redirected walking, making it possible to reach collectible objects in the virtual environment by walking physically.
